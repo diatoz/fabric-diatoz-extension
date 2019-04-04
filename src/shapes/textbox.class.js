@@ -32,7 +32,7 @@
     minWidth: 20,
 
     //Monu
-    minHeight: 33,
+    minHeight: 5,
 
     /**
      * Minimum calculated width of a textbox, in pixels.
